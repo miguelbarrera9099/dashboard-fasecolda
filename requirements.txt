@@ -1,4 +1,5 @@
-streamlit
 pandas
 numpy
-pyarrow
+ipywidgets
+matplotlib
+voila
