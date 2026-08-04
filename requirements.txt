@@ -1,5 +1,7 @@
-pandas
-numpy
-ipywidgets
-matplotlib
-voila
+pandas>=2.0,<3
+numpy>=1.24,<2
+ipywidgets>=8.0,<9
+matplotlib>=3.7,<4
+python-dateutil>=2.8,<3
+pyarrow>=14.0,<16
+voila>=0.5,<0.6
