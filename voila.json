@@ -1,0 +1,8 @@
+{
+  "VoilaConfiguration": {
+    "execute_progressive": true
+  },
+  "ExecutePreprocessor": {
+    "timeout": 300
+  }
+}
